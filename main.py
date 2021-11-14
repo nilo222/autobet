@@ -94,7 +94,7 @@ class mainbot:
                     status_win = False
                     status_lose = True
                     profit -= float(basebet)
-                    status_hasil = merah + "dak prrofit"
+                    status_hasil = merah + "noprofit"
                 # analisi win strike lose strike
                 if jumlah_win > total_win:
                     total_win += 1
